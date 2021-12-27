@@ -24,8 +24,8 @@ public class User {
     public static User buildMyUser() {
         return User.builder()
                 .userName("Anil")
-                .passWord("zooplatest")
-                .emailAddress("tallurida@gmail.com").build();
+                .passWord("properySearchtest")
+                .emailAddress("anilsarthi@gmail.com").build();
 
     }
 
